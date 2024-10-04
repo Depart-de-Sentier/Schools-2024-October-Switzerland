@@ -56,7 +56,7 @@ The schedule will be adapted during the course - the following is a rough outlin
 * 14:30 Input lecture on Sentier.dev initiative (Mutel)
 * 15:00 Models (Mutel)
 * 17:00 Group formation (Navarrete)
-* 18:00 Dinner
+* 18:30 Dinner
 * 20:00 Effective use of git and Github (Guimaraes)
 
 ## Monday morning
@@ -70,11 +70,11 @@ The schedule will be adapted during the course - the following is a rough outlin
 
 * 13:30 Using the Python library template (Navarrete)
 * 14:00 HESTIA models (Royer)
-* 15:00 Documentation (Weinold?)
+* 15:00 Documentation (Weinold)
 * 15:30 Logging (Navarrete)
 * 16:00 Testing (Guimaraes)
 * 16:30 Development exercise
-* 18:00 Dinner
+* 18:30 Dinner
 * 20:00 Development exercise continued
 
 ## Tuesday morning

@@ -10,7 +10,7 @@ The schedule will be adapted during the course - the following is a rough outlin
 
 ## Sunday afternoon
 
-* 13:30 Welcome and introduction
+* 13:35 Welcome and introduction
 * 14:30 Input lecture on Sentier.dev initiative (Mutel)
 * 15:00 Models (Mutel)
 * 17:00 Group formation (Navarrete)

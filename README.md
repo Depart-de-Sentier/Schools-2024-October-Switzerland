@@ -31,9 +31,8 @@ The schedule will be adapted during the course - the following is a rough outlin
 * 15:00 [Documentation (Weinold)](https://github.com/michaelweinold/teaching_technical_documentation)
 * 15:30 Logging (Navarrete)
 * 16:00 Testing (Guimaraes)
-* 16:30 Development exercise
 * 18:30 Dinner
-* 20:00 Development exercise continued
+* 20:00 Development exercise _starts_
 
 ## Tuesday morning
 

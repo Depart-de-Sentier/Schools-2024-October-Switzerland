@@ -28,7 +28,7 @@ The schedule will be adapted during the course - the following is a rough outlin
 
 * 13:30 Using the Python library template (Navarrete)
 * 14:00 HESTIA models (Royer)
-* 15:00 Documentation (Weinold)
+* 15:00 [Documentation (Weinold)](https://github.com/michaelweinold/teaching_technical_documentation)
 * 15:30 Logging (Navarrete)
 * 16:00 Testing (Guimaraes)
 * 16:30 Development exercise

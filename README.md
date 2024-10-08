@@ -4,6 +4,12 @@
 > 🙋‍♀️🙋‍♂️ School Chat Room \
 > [Join the chat Get help from team coaches and other students here!](https://matrix.to/#/#dds-schools:matrix.org) \
 
+# Tips for finding IRIs without too much despair
+
+* When searching [the Sentier vocab](https://vocab.sentier.dev), put an `*` in front of your term, e.g. `*capacitor*`.
+* Our implementation of the `Combined nomenclature` is not complete - you can download [the complete PDF](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302364) and find terms in there which are missing; email or talk to Chris and we will figure out how to get them into the common vocab.
+* The IRIs for [ChEBI](https://www.ebi.ac.uk/chebi/) look like this: `http://purl.obolibrary.org/obo/CHEBI_12345`. You can substitute in the number you find on the ChEBI website to get the IRI.
+
 # Schedule
 
 The schedule will be adapted during the course - the following is a rough outline.

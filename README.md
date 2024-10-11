@@ -4,6 +4,10 @@
 > 🙋‍♀️🙋‍♂️ School Chat Room \
 > [Join the chat Get help from team coaches and other students here!](https://matrix.to/#/#dds-schools:matrix.org) \
 
+## Survey
+
+Besides the formal feedback session during the conference, we invite you to fill out 👉 [an anonymous form](https://forms.gle/QxGRyeJT1PmCgFPt8) ✏️ to help us improve the autumn schools. 
+
 # Tips for finding IRIs without too much despair
 
 * When searching [the Sentier vocab](https://vocab.sentier.dev), put an `*` in front of your term, e.g. `*capacitor*`.

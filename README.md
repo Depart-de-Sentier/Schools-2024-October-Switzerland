@@ -1,18 +1,31 @@
 # October 2024 School on Advanced Inventory Modelling
 
+
+## School final tasks
+
 > [!IMPORTANT]
-> 🙋‍♀️🙋‍♂️ School Chat Room \
-> [Join the chat Get help from team coaches and other students here!](https://matrix.to/#/#dds-schools:matrix.org) \
+> Besides the formal feedback session during the conference, we ask you to fill out \
+> 👉 [an anonymous form](https://forms.gle/QxGRyeJT1PmCgFPt8) ✏️ to help us \
+> improve the autumn schools. \
 
-## Survey
-
-Besides the formal feedback session during the conference, we invite you to fill out 👉 [an anonymous form](https://forms.gle/QxGRyeJT1PmCgFPt8) ✏️ to help us improve the autumn schools. 
+> [!IMPORTANT]
+> Please upload your group presentation or documentation and repository \
+> See the example given in `Outputs` below. \
 
 # Tips for finding IRIs without too much despair
 
 * When searching [the Sentier vocab](https://vocab.sentier.dev), put an `*` in front of your term, e.g. `*capacitor*`.
 * Our implementation of the `Combined nomenclature` is not complete - you can download [the complete PDF](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302364) and find terms in there which are missing; email or talk to Chris and we will figure out how to get them into the common vocab.
 * The IRIs for [ChEBI](https://www.ebi.ac.uk/chebi/) look like this: `http://purl.obolibrary.org/obo/CHEBI_12345`. You can substitute in the number you find on the ChEBI website to get the IRI.
+
+# Outputs
+
+* **Example group name**: Title of group work with [link to repository](http://example.org). Link to [group presentation uploaded to `Group presentations` folder](http://example.org).
+
+# Chat room
+
+🙋‍♀️🙋‍♂️ School Chat Room: [Join the chat Get help from team coaches and other students here!](https://matrix.to/#/#dds-schools:matrix.org)
+
 
 # Schedule
 

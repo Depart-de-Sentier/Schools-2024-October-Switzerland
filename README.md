@@ -5,12 +5,11 @@
 
 > [!IMPORTANT]
 > Besides the formal feedback session during the conference, we ask you to fill out \
-> 👉 [an anonymous form](https://forms.gle/QxGRyeJT1PmCgFPt8) ✏️ to help us \
-> improve the autumn schools. \
+> 👉 [an anonymous form](https://forms.gle/QxGRyeJT1PmCgFPt8) ✏️ to help us improve the autumn schools. \
 
 > [!IMPORTANT]
-> Please upload your group presentation or documentation and repository \
-> See the example given in `Outputs` below. \
+> Please upload your group presentation or documentation and repository! \
+> See the example given in `Outputs` below.
 
 # Tips for finding IRIs without too much despair
 

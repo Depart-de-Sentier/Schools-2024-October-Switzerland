@@ -20,6 +20,7 @@
 # Outputs
 
 * **Example group name**: Title of group work with [link to repository](http://example.org). Link to [group presentation uploaded to `Group presentations` folder](http://example.org).
+* [**sentier_peakachu**](https://github.com/TimoDiepers/sentier_peakachu): Using spatiotemporal [ENTSO-E](https://transparency.entsoe.eu) and [Climate Trace](https://climatetrace.org) data to calculate electricity impacts. [Documentation here](https://sentier-peakachu.readthedocs.io/en/latest/).
 
 # Chat room
 

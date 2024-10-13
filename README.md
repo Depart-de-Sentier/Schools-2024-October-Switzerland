@@ -21,6 +21,7 @@
 
 * **Example group name**: Title of group work with [link to repository](http://example.org). Link to [group presentation uploaded to `Group presentations` folder](http://example.org).
 * [**sentier_peakachu**](https://github.com/TimoDiepers/sentier_peakachu): Using spatiotemporal [ENTSO-E](https://transparency.entsoe.eu) and [Climate Trace](https://climatetrace.org) data to calculate electricity impacts. [Documentation here](https://sentier-peakachu.readthedocs.io/en/latest/).
+* [**sentier trash**](https://github.com/Haitham-ghaida/DdS24-TT) Using a subset of the larger [Celavi ABM](https://github.com/NREL/celavi) by [NREL](https://www.nrel.gov/) to obtain an LCI dataset of a Waste Recovery Facility (MRF). [Documentation here](https://dds24-tt.readthedocs.io/en/latest/)
 
 # Chat room
 
